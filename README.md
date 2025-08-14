@@ -3,7 +3,8 @@
 # 🌟 ENTER THE MATRIX 🌟
 
 <!-- ABSOLUTELY MIND-BLOWING MULTI-LAYER ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=50&fontAlignY=35&desc=AI%20ARCHITECT%20|%20LLM|Django|Flask| FastAPI%20%20|%20Agentic%20AI&descAlignY=50&descAlign=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=50&fontAlignY=35&desc=AI%20ARCHITECT%20%7C%20LLM%20%7C%20Django%2C%20Flask%2C%20FastAPI%20%7C%20Agentic%20AI&descAlignY=50&animation=twinkling" />
+
 
 <!-- REVOLUTIONARY: ANIMATED 3D HOLOGRAPHIC NAME CARD -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=1000&pause=200&color=FF6B6B&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=┌─────────────────────────────────────────┐;│++🚀++KHURAM++SHAHZAD++MATRIX++ONLINE++🚀++│;│++⚡++NEURAL++NETWORKS++SYNCHRONIZED++⚡++│;│++🔥++CONSCIOUSNESS++LEVEL%3A++MAXIMUM++🔥++│;│++🌟++STATUS%3A++LEGENDARY++ACTIVATED++🌟++│;└─────────────────────────────────────────┘" />
