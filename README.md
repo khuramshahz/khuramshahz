@@ -1,27 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=70&fontAlignY=35&fontColor=00ff41&desc=AI%20ARCHITECT%20%7C%20AGENTIC%20SYSTEMS%20ENGINEER&descAlignY=55&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00ff41,100:000000&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=70&fontAlignY=35&desc=AGENTIC%20AI%20ARCHITECT%20|%20SYSTEMS%20OPTIMIZER&descAlignY=55&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1500&pause=300&color=00FF41&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=>>+UPLINKING+INTERNSHIP+DATA...;>>+SYNCHRONIZING+MULTI-AGENT+PROTOCOLS...;>>+DEPLOYING+NEURAL+WORKFLOWS...;>>+SYSTEM+STATUS:+LEGENDARY+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=1200&pause=200&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=>>+INITIALIZING+NEURAL+INTERFACE...;>>+UPLINKING+ROBX.AI+PROTOCOLS...;>>+SYNCHRONIZING+MULTI-AGENT+SWARMS...;>>+SYSTEM+STATUS:+BEYOND+LIMITS+🔥" />
 
 ---
 
-<table align="center" style="border: none;">
+<table align="center" style="border: 2px solid #00ff41; border-radius: 15px; background: #000;">
   <tr>
-    <td width="50%">
-      <h2 align="left">🧬 SYSTEM_SPECS</h2>
+    <td width="50%" style="padding: 20px;">
+      <h2 align="left">🧬 SYSTEM_SPECIFICATIONS</h2>
       <p align="left">
-        <strong>University:</strong> COMSATS Islamabad (BSc CS '26) <br>
-        <strong>Core Focus:</strong> LLM Subgraphs & Multi-Agent Coordination <br>
-        <strong>Current Node:</strong> AI Intern @ Robx.ai
+        <strong>NODE:</strong> COMSATS University Islamabad  <br>
+        <strong>CLASS:</strong> Spring - 2026 [cite: 6] <br>
+        <strong>GPA:</strong> 3.36 / 4.0  <br>
+        <strong>CORE:</strong> Agentic AI & Graph Compilers
       </p>
     </td>
-    <td width="50%">
-      <h2 align="left">📡 ACTIVE_COORDINATES</h2>
+    <td width="50%" style="padding: 20px;">
+      <h2 align="left">🛰️ ACTIVE_FREQUENCIES</h2>
       <p align="left">
-        <strong>GitHub:</strong> <a href="https://github.com/khuram">github.com/khuram</a> <br>
-        <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/khuram">linkedin.com/in/khuram</a> <br>
-        <strong>Email:</strong> <a href="mailto:khuramshahzad972001@gmail.com">khuramshahzad972001@gmail.com</a>
+        <strong>LOCATION:</strong> Islamabad, PK [cite: 6] <br>
+        <strong>GITHUB:</strong> <a href="https://github.com/khuram">khuram_root</a> [cite: 2] <br>
+        <strong>LINKEDIN:</strong> <a href="https://www.linkedin.com/in/khuram">khuram_net</a> [cite: 2] <br>
+        <strong>CERTIFIED:</strong> LangGraph & GenAI [cite: 36, 37]
       </p>
     </td>
   </tr>
@@ -29,36 +31,34 @@
 
 ---
 
-## 📂 PROFESSIONAL_CHRONOLOGY [INTERNSHIPS]
+## 📡 NEURAL_UPLINKS [CAREER_LOGS]
 
 <div align="left">
 
-### 🤖 **Robx.ai | AI Intern (Multi-Agent Systems)** *Dec 2025 — Present*
-> **Multi-Agent Coordination:** Designing hierarchical and consensus-based execution strategies for agentic swarms. Implemented dynamic prompt parsing and hashing for optimized task caching.
+### 🟢 **Robx.ai | [cite_start]AI Intern (Agentic Systems)** *Dec 2025 — Present* [cite: 21]  
+> [cite_start]<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&color=00ff41&multiline=true&width=800&height=80&lines=%23+Developing+Multi-Agent+Coordination+Strategies;%23+Implementing+Consensus-Based+Execution+%26+Dynamic+Prompt+Parsing;%23+Optimizing+Task+Allocation+%26+Auto-scaling+Mechanisms" /> [cite: 22, 23, 24]
 
-### 🛡️ **Trust Nexus | AI Intern (Security AI)**
-*July 2025 — Sep 2025*
-> **Multimodal Logic:** Built a framework integrating CV and NLP for log analysis. Implemented voice and face recognition authentication systems and connected local pipelines to remote VM servers.
+### 🟡 **Trust Nexus | [cite_start]AI Intern (Security AI)** *July 2025 — Sep 2025* [cite: 19, 20]  
+> [cite_start]<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&color=00D4AA&multiline=true&width=800&height=80&lines=%23+Engineered+Face/Voice+Recognition+Authentication+Systems;%23+Built+Multimodal+Log+Analysis+for+User+Behavior+Insights;%23+Connected+Local+Logging+to+Remote+VM+Servers" /> [cite: 15, 16, 17]
 
-### ⚙️ **Kreashion Software House | Laravel Intern**
-*July 2024 — Sep 2024*
-> **Backend Architecture:** Developed RESTful APIs and optimized MySQL database structures using Eloquent ORM for high-efficiency server-side functionality.
+### 🔵 **Kreashion | [cite_start]Laravel Intern** *July 2024 — Sep 2024* [cite: 9, 10]  
+> [cite_start]<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&color=3399FF&multiline=true&width=800&height=80&lines=%23+Architected+RESTful+APIs+using+Laravel+Eloquent+ORM;%23+Optimized+MySQL+Database+Structures+%26+Queries;%23+Maintained+Robust+Backend+Systems" /> [cite: 11, 12, 13]
 
 </div>
 
 ---
 
-## 🛠️ DEPLOYED_MODULES [PROJECTS]
+## 🛠️ CORE_MODULES [DEPLOYED_PROJECTS]
 
 | 💠 **AGENTIC_GRAPH_COMPILER** | 💠 **CRIMINAL_LAW_CHATBOT** |
 | :--- | :--- |
-| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=00D4AA&multiline=true&width=400&height=100&lines=Runtime+LangGraph+Compiler;Self-evolving+agent+logic;Dynamic+StateGraph+scaling" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=FF6B6B&multiline=true&width=400&height=100&lines=RAG-based+legal+advisor;MongoDB+Vector+Search;FastAPI+Retriever+Engine" /> |
-| **Tech:** LangGraph, Python | **Tech:** RAG, MongoDB, FastAPI |
+| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=00D4AA&multiline=true&width=400&height=100&lines=Runtime+LangGraph+Compiler;Self-evolving+agent+logic;Dynamic+StateGraph+scaling" /> | [cite_start]<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=FF6B6B&multiline=true&width=400&height=100&lines=RAG-based+legal+advisor;MongoDB+Vector+Search;FastAPI+Retriever+Engine" /> [cite: 27, 28] |
+| **Tech:** LangGraph, Python | [cite_start]**Tech:** FastAPI, React, MongoDB [cite: 28, 29] |
 
 | 💠 **CELEBRITY_ORACLE** | 💠 **OLLAMA_SLIDE_ARCHITECT** |
 | :--- | :--- |
-| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=9D4EDD&multiline=true&width=400&height=100&lines=CNN+Image+Classification;TensorFlow+%2B+Keras+Deep+Learning;Real-time+Web+Deployment" /> | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=FFD700&multiline=true&width=400&height=100&lines=Generative+Presentation+Tool;PptxGenJS+Integration;Local+LLM+Processing" /> |
-| **Tech:** CNN, TensorFlow, React | **Tech:** Ollama, Node.js |
+| [cite_start]<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=9D4EDD&multiline=true&width=400&height=100&lines=CNN+Image+Classification;TensorFlow+%2B+Keras;High-Accuracy+Detection" /> [cite: 31, 32] | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=FFD700&multiline=true&width=400&height=100&lines=Generative+Presentation+Tool;PptxGenJS+Integration;Local+LLM+Processing" /> |
+| [cite_start]**Tech:** TensorFlow, Keras [cite: 32] | **Tech:** Ollama, Node.js, PptxGenJS |
 
 ---
 
@@ -66,19 +66,19 @@
 
 <div align="center">
 
-**GEN_AI & LLMs:** `LangChain` `LangGraph` `RAG` `LoRA` `Fine-Tuning` `Diffusion Models`  
-**DEEP LEARNING:** `PyTorch` `TensorFlow` `CNNs` `RNNs` `LSTMs` `Transfer Learning`  
-**MLOPS & DB:** `Docker` `Kubernetes` `AWS EC2` `MongoDB` `Supabase` `Firebase`
+[cite_start]**GEN_AI & LLMs:** `LangChain` `LangGraph` `RAG` `LoRA` `Fine-Tuning` `Diffusion Models` [cite: 48, 49]  
+[cite_start]**DEEP LEARNING:** `PyTorch` `TensorFlow` `CNNs` `RNNs` `LSTMs` `Transfer Learning` [cite: 47]  
+[cite_start]**MLOPS & DB:** `Docker` `Kubernetes` `AWS EC2` `MongoDB` `Supabase` `Firebase` [cite: 50, 51]
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,nodejs,react,laravel,mysql,mongodb,docker,aws,git,github&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,nodejs,react,laravel,mysql,mongodb,docker,aws,kubernetes,git,github&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-## 📊 NEURAL_ACTIVITY_FEED
+## 📊 ACTIVITY_NEBULA
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khuramshahz&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&radius=16&height=350" width="100%" />
@@ -95,12 +95,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=>>+ENCRYPTED+UPLINK+READY+FOR+COLLABORATION;>>+CONTACT+INITIATED...)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%5B+LOGIN+SUCCESSFUL+%5D;>>+ENCRYPTED+UPLINK+READY+FOR+COLLABORATION;>>+REACH+OUT+TO+REWRITE+REALITY...)]()
 
 <br/>
 
-[**SECURE_LINKEDIN**](https://linkedin.com/in/khuram) | [**SOURCE_CODE**](https://github.com/khuram) | [**EMAIL_ME**](mailto:khuramshahzad972001@gmail.com)
+[**LINKEDIN_PORT**](https://www.linkedin.com/in/khuram) | [**SOURCE_VAULT**](https://github.com/khuram) | [**SECURE_MAIL**](mailto:khuramshahzad972001@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&text=END_OF_LINE&fontSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer&text=CONNECTION%20SECURED&fontSize=20&animation=fadeIn" />
 
 </div>
