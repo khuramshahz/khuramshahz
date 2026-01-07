@@ -114,13 +114,7 @@
 
 
 
-### 🌌 **CONNECT TO THE MAINFRAME** 🌌
 
-[![LinkedIn](https://img.shields.io/badge/NEURAL-LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/khuramshahzad)
-[![Portfolio](https://img.shields.io/badge/REALITY-PORTAL-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://khuramshahz.github.io/)
-[![Email](https://img.shields.io/badge/QUANTUM-MAIL-00D4AA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:khuram@example.com)
-
-</div>
 
 ---
 
