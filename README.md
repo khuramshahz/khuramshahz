@@ -105,14 +105,7 @@
 
 ---
 
-<!-- SINGLE EPIC TROPHY DISPLAY -->
-<div align="center">
 
-## 🏆 **ACHIEVEMENT MATRIX: LEGENDARY STATUS** 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=khuramshahz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
 
 
 
