@@ -127,16 +127,7 @@
 
 </div>
 
----
 
-<!-- MIND-BENDING FOOTER -->
-<div align="center">
-
-## 🚀 **TRANSMISSION COMPLETE** 🚀
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%3E%3E%3E+CONSCIOUSNESS+UPLOADED+SUCCESSFULLY;%3E%3E%3E+NEURAL+NETWORKS+SYNCHRONIZED;%3E%3E%3E+REALITY+MATRIX+STABLE;%3E%3E%3E+AWAITING+NEXT+COMMAND...)](https://git.io/typing-svg)
-
----
 
 ### 🌌 **CONNECT TO THE MAINFRAME** 🌌
 
