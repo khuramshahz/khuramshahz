@@ -1,29 +1,19 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:003300,100:000000&height=160&section=header&text=%20&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a00,60:003300,100:0a0a0a&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=AI%20ENGINEER%20%E2%80%A2%20PYTHON%20DEVELOPER%20%E2%80%A2%20ISLAMABAD%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=68&descColor=88ff88&stroke=00ff41&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║  ██╗  ██╗██╗  ██╗██╗   ██╗██████╗  █████╗ ███╗   ███╗    ██████╗ ██╗   ██╗        ║
-║  ██║ ██╔╝██║  ██║██║   ██║██╔══██╗██╔══██╗████╗ ████║   ██╔══██╗╚██╗ ██╔╝        ║
-║  █████╔╝ ███████║██║   ██║██████╔╝███████║██╔████╔██║   ██████╔╝ ╚████╔╝         ║
-║  ██╔═██╗ ██╔══██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║   ██╔═══╝   ╚██╔╝          ║
-║  ██║  ██╗██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║   ██║        ██║           ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝        ╚═╝           ║
-╠══════════════════════════════════════════════════════════════════════════════════════╣
-║       ▸ AI ENGINEER   ▸ PYTHON DEVELOPER   ▸ GENAI SPECIALIST   ▸ PK 🇵🇰           ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=60&lines=%E2%94%BC+NEURAL+NET+ACTIVE+%E2%94%BC+RAG+%E2%94%BC+LANGGRAPH+%E2%94%BC+FINE-TUNING+%E2%94%BC+AGENTIC+AI+%E2%94%BC+AWS+%E2%94%BC+AZURE+AI+%E2%94%BC;%E2%94%BC+FASTAPI+%E2%94%BC+DJANGO+%E2%94%BC+NODEJS+%E2%94%BC+DOCKER+%E2%94%BC+K8S+%E2%94%BC+GRAFANA+%E2%94%BC+VECTORDB+%E2%94%BC)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%E2%96%B6+SYSTEM+BOOT+%7C+NEURAL+CORE+INITIALIZED+%7C+ALL+SYSTEMS+NOMINAL;%E2%96%B6+FastAPI+%7C+Django+%7C+RAG+%7C+LangGraph+%7C+Fine-Tuning+%7C+AWS+%7C+Azure+AI;%E2%96%B6+Machine+Learning+%7C+Deep+Learning+%7C+VectorDB+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+<!-- MASSIVE SVG IDENTITY CARD -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=0D110D&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=220&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++IDENTITY+CARD+%3A%3A+KHURAM+SHAHZAD+%3A%3A+AI+ENGINEER++++++++++++++++++++++++++%E2%95%91;%E2%95%9F%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%A2;%E2%95%91++ROLE+.......+AI+Engineer+%2B+Python+Developer+%2B+GenAI+Specialist+++++++++++%E2%95%91;%E2%95%91++LOCATION+...+COMSATS+University+Islamabad+%F0%9F%87%B5%F0%9F%87%B0+%7C+GPA+3.36%2F4.0+++++++++++++%E2%95%91;%E2%95%91++EMPLOYER+...+ROBX.AI+%E2%80%94+Python+Developer+%5BMAR+2026+%E2%86%92+NOW%5D++++++++++++++++++%E2%95%91;%E2%95%91++STATUS+.....+%F0%9F%9F%A2+ACTIVELY+BUILDING+%7C+OPEN+TO+COLLABORATE+%E2%9C%85++++++++++++++%E2%95%91;%E2%95%91++FOCUS+......+Agentic+AI+%7C+RAG+Systems+%7C+LLM+Fine-Tuning++++++++++++++++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" />
 
 </div>
 
@@ -31,308 +21,192 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```python
-# ┌─────────────────────────────────┐
-# │        IDENTITY MATRIX          │
-# └─────────────────────────────────┘
-
-class KhuramShahzad:
-
-    name       = "Khuram Shahzad"
-    role       = ["AI Engineer",
-                  "Python Developer",
-                  "GenAI Specialist"]
-
-    university = "COMSATS Islamabad 🇵🇰"
-    gpa        = 3.36 / 4.0
-    semester   = "Spring 2026"
-
-    currently  = "ROBX.AI → Python Dev"
-    focus      = "Agentic AI & RAG Systems"
-
-    open_to    = True  # collaborations ✅
-    status     = "actively_building 🟢"
-
-    def __init__(self):
-        self.coffee   = float('inf')
-        self.bugs     = 0  # ( optimistic )
-        self.ideas    = "always_overflowing"
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌────────────────────────────────────┐
-│         NEURAL PATHWAY MAP         │
-├────────────────────────────────────┤
-│                                    │
-│   INPUT ──► [ LLM CORE ] ──► RAG  │
-│                 │                  │
-│          [ LANGGRAPH ]             │
-│         /    │      \              │
-│      Agent  Agent  Agent           │
-│        │     │       │             │
-│    [FastAPI + Django Backend]      │
-│              │                     │
-│       [MongoDB / VectorDB]         │
-│              │                     │
-│      [ AWS / Docker / K8S ]        │
-│              │                     │
-│          OUTPUT ✅                 │
-│                                    │
-└────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;`// WORK HISTORY`
 
 <div align="center">
 
-## ◈ EXPERIENCE TIMELINE ◈
+| | PERIOD | COMPANY | ROLE | STACK |
+|:---:|:---:|:---:|:---|:---|
+| 🟢 | `MAR 2026 → NOW` | **ROBX.AI** | Python Developer | `FastAPI` `Django` `Node.js` `MySQL` `MongoDB` `AWS` `Feature Eng.` |
+| 🟡 | `DEC 2025 → FEB 2026` | **ROBX.AI** | AI Intern | `RAG` `LoRA/QLoRA` `LangGraph` `Multi-Agent` `Fine-Tuning` |
+| 🔵 | `JUL → SEP 2025` | **TRUST NEXUS** | AI Intern | `FastAPI` `Django REST` `Computer Vision` `Deep Learning` |
+| ⚪ | `JUL → SEP 2024` | **KREASHION** | Laravel Intern | `Laravel` `PHP` `RESTful APIs` `MVC` `MySQL` |
 
 </div>
-
-```
-2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      │
-MAR ──●── 🟢 ROBX.AI │ Python Developer                        [PRESENT]
-      │      FastAPI · Django · Node.js · MySQL · MongoDB · AWS
-      │      Feature Engineering · Data Annotation · API Integration
-      │
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      │
-DEC ──●── 🟢 ROBX.AI │ AI Intern                           [DEC→FEB 2026]
-      │      RAG Chatbots · LoRA/QLoRA · LangGraph · Multi-Agent Systems
-      │
-JUL ──●── 🟡 TRUST NEXUS │ AI Intern                       [JUL→SEP 2025]
-      │      FastAPI Microservices · Django REST · Computer Vision
-      │
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      │
-JUL ──●── 🔵 KREASHION │ Laravel Intern                    [JUL→SEP 2024]
-             Laravel/PHP · RESTful APIs · MVC · Database Optimization
-```
-
----
-
-<div align="center">
-
-## ◈ DEPLOYED CONSTRUCTS ◈
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  [01] AGENTIC GRAPH COMPILER     ║
-╠══════════════════════════════════╣
-║                                  ║
-║  State-machine multi-agent       ║
-║  orchestration with dynamic      ║
-║  graph workflows, parallel       ║
-║  execution & real-time routing   ║
-║                                  ║
-║  ► LangGraph  ► Python           ║
-║  ► Redis      ► NetworkX         ║
-║                                  ║
-╚══════════════════════════════════╝
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  [02] CRIMINAL LAW CHATBOT       ║
-╠══════════════════════════════════╣
-║                                  ║
-║  RAG-powered Pakistani legal     ║
-║  AI with case law citations,     ║
-║  multi-turn memory & real-time   ║
-║  legal reasoning engine          ║
-║                                  ║
-║  ► FastAPI    ► React            ║
-║  ► MongoDB    ► LangChain        ║
-║                                  ║
-╚══════════════════════════════════╝
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  [03] CELEBRITY ORACLE           ║
-╠══════════════════════════════════╣
-║                                  ║
-║  Deep CNN + ResNet50 transfer    ║
-║  learning — 94.2% accuracy on   ║
-║  10,000+ celebrity database      ║
-║  with real-time inference        ║
-║                                  ║
-║  ► TensorFlow ► Keras            ║
-║  ► OpenCV     ► ResNet50         ║
-║                                  ║
-╚══════════════════════════════════╝
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-╔══════════════════════════════════╗
-║  [04] OLLAMA SLIDE ARCHITECT     ║
-╠══════════════════════════════════╣
-║                                  ║
-║  Local LLM-powered presentation  ║
-║  generator — auto-creates        ║
-║  structured slides with pro      ║
-║  templates & PPTX export         ║
-║                                  ║
-║  ► Ollama     ► Node.js          ║
-║  ► PptxGenJS  ► Express          ║
-║                                  ║
-╚══════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◈ TECH ARSENAL ◈
-
-### ⚡ GENERATIVE AI & LLMs
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-8B5CF6?style=for-the-badge&logoColor=white)
-![Diffusion](https://img.shields.io/badge/Diffusion_Models-F59E0B?style=for-the-badge&logoColor=white)
-![GANs](https://img.shields.io/badge/GANs-EC4899?style=for-the-badge&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🧠 DEEP LEARNING
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![CNN](https://img.shields.io/badge/CNN%20%C2%B7%20RNN%20%C2%B7%20LSTM-326CE5?style=for-the-badge&logoColor=white)
-
-### 🚀 BACKEND & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ DATABASES & VECTOR STORES
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VectorDB](https://img.shields.io/badge/Vector_DB-00D9FF?style=for-the-badge&logoColor=white)
-
-### ☁️ MLOPS & INFRASTRUCTURE
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CICD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<div align="center">
-
-## ◈ GITHUB METRICS ◈
-
-<img src="https://github-readme-stats.vercel.app/api?username=khuramshahz&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khuramshahz&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&border_radius=0&sideLabels=00ff41&dates=c9d1d9" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuramshahz&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=0&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khuramshahz&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=false&border_color=00ff41&radius=0" width="48%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=khuramshahz&theme=matrix&no-frame=false&margin-w=6&row=1&column=7" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║               ⊕  OPEN TO COLLABORATE  ⊕                         ║
-║                                                                  ║
-║   Building something ambitious in AI? Let's connect.            ║
-║                                                                  ║
-║   ▸ Agentic AI with autonomous decision loops                   ║
-║   ▸ RAG for legal / medical / finance domains                   ║
-║   ▸ LLM fine-tuning with LoRA / QLoRA pipelines                 ║
-║   ▸ AI deployment on AWS / Azure / Docker / K8S                 ║
-║   ▸ Multi-agent coordination & graph compiler research           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuram-shahzad-87a0472b5)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuramshahz)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuramshahzad972001@gmail.com)
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`// DEPLOYED SYSTEMS`
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=khuramshahz&repo=agentic-graph-compiler&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&border_color=00ff41&border_radius=0&description_lines_count=2" />
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=khuramshahz&repo=criminal-law-chatbot&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&border_color=00ff41&border_radius=0&description_lines_count=2" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────┐   ┌──────────────────────────────────────┐
+│  01 ▸ AGENTIC GRAPH COMPILER         │   │  02 ▸ CRIMINAL LAW CHATBOT           │
+├──────────────────────────────────────┤   ├──────────────────────────────────────┤
+│  Multi-agent LangGraph system with   │   │  RAG-powered legal AI for Pakistani  │
+│  state machines, parallel execution  │   │  criminal law — case citations,       │
+│  & real-time decision routing        │   │  multi-turn memory, vector retrieval  │
+│                                      │   │                                      │
+│  LangGraph · Python · Redis          │   │  FastAPI · React · MongoDB · LC      │
+└──────────────────────────────────────┘   └──────────────────────────────────────┘
+
+┌──────────────────────────────────────┐   ┌──────────────────────────────────────┐
+│  03 ▸ CELEBRITY ORACLE               │   │  04 ▸ OLLAMA SLIDE ARCHITECT         │
+├──────────────────────────────────────┤   ├──────────────────────────────────────┤
+│  ResNet50 transfer learning CNN      │   │  Local LLM presentation generator — │
+│  94.2% val accuracy · 10k+ faces    │   │  auto-structures slides, exports to  │
+│  real-time facial recognition        │   │  PPTX with professional templates    │
+│                                      │   │                                      │
+│  TensorFlow · Keras · OpenCV         │   │  Ollama · Node.js · PptxGenJS        │
+└──────────────────────────────────────┘   └──────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+---
+
+## `// TECH ARSENAL`
+
+<div align="center">
+
+**[ GENERATIVE AI ]**
+
+![LangChain](https://img.shields.io/badge/─_LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00ff41)
+![LangGraph](https://img.shields.io/badge/─_LangGraph-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=0d1117&label=&message=LangGraph)
+![OpenAI](https://img.shields.io/badge/─_OpenAI-0d1117?style=flat-square&logo=openai&logoColor=00ff41)
+![HuggingFace](https://img.shields.io/badge/─_HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![RAG](https://img.shields.io/badge/─_RAG_Pipelines-0d1117?style=flat-square&logoColor=00ff41)
+![LoRA](https://img.shields.io/badge/─_LoRA_%2F_QLoRA-0d1117?style=flat-square&logoColor=8B5CF6)
+![Diffusion](https://img.shields.io/badge/─_Diffusion_Models-0d1117?style=flat-square&logoColor=F59E0B)
+![GANs](https://img.shields.io/badge/─_GANs-0d1117?style=flat-square&logoColor=EC4899)
+![Azure](https://img.shields.io/badge/─_Azure_AI_Foundry-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+
+**[ DEEP LEARNING ]**
+
+![PyTorch](https://img.shields.io/badge/─_PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/─_TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/─_Keras-0d1117?style=flat-square&logo=keras&logoColor=D00000)
+![Transformers](https://img.shields.io/badge/─_Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![CNN](https://img.shields.io/badge/─_CNN_%2F_RNN_%2F_LSTM-0d1117?style=flat-square&logoColor=326CE5)
+![CV](https://img.shields.io/badge/─_Computer_Vision-0d1117?style=flat-square&logoColor=00D9FF)
+
+**[ BACKEND ]**
+
+![FastAPI](https://img.shields.io/badge/─_FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/─_Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/─_Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/─_Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Laravel](https://img.shields.io/badge/─_Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
+
+**[ DATA & INFRA ]**
+
+![MongoDB](https://img.shields.io/badge/─_MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/─_MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/─_PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![VectorDB](https://img.shields.io/badge/─_Vector_DB-0d1117?style=flat-square&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/─_Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/─_Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/─_AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Grafana](https://img.shields.io/badge/─_Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46800)
+![N8N](https://img.shields.io/badge/─_N8N-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+</div>
+
+<br>
+
+---
+
+## `// NEURAL ACTIVITY`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khuramshahz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=1a2e1a&border_radius=0&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuramshahz&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=1a2e1a&border_radius=0"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=khuramshahz&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=false&border_color=1a2e1a&radius=0&custom_title=COMMIT+ACTIVITY+%7C+NEURAL+PULSE"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khuramshahz&background=0d1117&ring=00ff41&fire=00cc33&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=00ff41&dates=6b836b&border=1a2e1a&border_radius=0" width="60%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `// OPEN TO COLLABORATE`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a00,100:003300&height=3&section=header" width="80%"/>
+
+<br>
+
+**I build things that matter. If your project pushes the boundary of what AI can do — I want in.**
+
+<br>
+
+| DOMAIN | WHAT I BRING |
+|:---|:---|
+| 🤖 **Agentic AI Systems** | LangGraph · State machines · Autonomous loops · Memory |
+| 📚 **RAG Applications** | Legal · Medical · Finance · Custom vector pipelines |
+| 🔧 **LLM Fine-Tuning** | LoRA / QLoRA · Domain adaptation · Evaluation |
+| ☁️ **AI Deployment** | AWS · Azure · Docker · Kubernetes · CI/CD |
+| 🔬 **Research** | Graph compilers · Multi-agent coordination · Benchmarking |
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a00,100:003300&height=3&section=header" width="80%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+`ESTABLISH CONNECTION`
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/khuram-shahzad-87a0472b5)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/khuramshahz)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:khuramshahzad972001@gmail.com)
 
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=khuramshahz&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-READY__TO__DEPLOY-00ff41?style=for-the-badge&labelColor=0d1117)
-![Collab](https://img.shields.io/badge/OPEN_TO-COLLABORATE-00ff41?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Open](https://img.shields.io/badge/COLLAB-OPEN-00ff41?style=for-the-badge&labelColor=0d1117)
 
 <br>
 
-```
-[ SYSTEM STATUS: ONLINE ]  [ NEURAL PATHWAYS: SYNCED ]  [ AWAITING COLLABORATION... ]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:001a00,100:0a0a0a&height=150&section=footer&text=THE+FUTURE+IS+NOT+WRITTEN.+LET%27S+CODE+IT.&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=55" width="100%"/>
 
 </div>
