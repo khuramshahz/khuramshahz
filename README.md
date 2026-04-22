@@ -22,7 +22,7 @@
 ---
 
 ## `// WORK HISTORY`
-## `// WORK HISTORY`
+
 
 <div align="center">
 
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/●-ACTIVE-00ff88?style=flat-square&labelColor=0d1117&color=00ff88"/>
 </td>
 <td><code>MAR 2026 → NOW</code></td>
-<td><b>🔷 ROBX.AI</b></td>
+<td><b>ROBX.AI</b></td>
 <td>Python Developer</td>
 <td>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/●-COMPLETED-f5c518?style=flat-square&labelColor=0d1117&color=f5c518"/>
 </td>
 <td><code>DEC 2025 → FEB 2026</code></td>
-<td><b>🔶 ROBX.AI</b></td>
+<td><b>ROBX.AI</b></td>
 <td>AI Intern</td>
 <td>
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square"/>
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/●-COMPLETED-4fa3ff?style=flat-square&labelColor=0d1117&color=4fa3ff"/>
 </td>
 <td><code>JUL → SEP 2025</code></td>
-<td><b>🔹 TRUST NEXUS</b></td>
+<td><b>TRUST NEXUS</b></td>
 <td>AI Intern</td>
 <td>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
