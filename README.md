@@ -21,18 +21,90 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;`// WORK HISTORY`
+## `// WORK HISTORY`
 
 <div align="center">
 
-| | PERIOD | COMPANY | ROLE | STACK |
-|:---:|:---:|:---:|:---|:---|
-| 🟢 | `MAR 2026 → NOW` | **ROBX.AI** | Python Developer | `FastAPI` `Django` `Node.js` `MySQL` `MongoDB` `AWS` `Feature Eng.` |
-| 🟡 | `DEC 2025 → FEB 2026` | **ROBX.AI** | AI Intern | `RAG` `LoRA/QLoRA` `LangGraph` `Multi-Agent` `Fine-Tuning` |
-| 🔵 | `JUL → SEP 2025` | **TRUST NEXUS** | AI Intern | `FastAPI` `Django REST` `Computer Vision` `Deep Learning` |
-| ⚪ | `JUL → SEP 2024` | **KREASHION** | Laravel Intern | `Laravel` `PHP` `RESTful APIs` `MVC` `MySQL` |
+```
+◈ ──────────────────────────────────────────────────── ◈
+<table>
+<tr>
+<td align="center"><b>STATUS</b></td>
+<td align="center"><b>PERIOD</b></td>
+<td align="center"><b>COMPANY</b></td>
+<td align="center"><b>ROLE</b></td>
+<td align="center"><b>STACK</b></td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/●-ACTIVE-00ff88?style=flat-square&labelColor=0d1117&color=00ff88"/>
+</td>
+<td><code>MAR 2026 → NOW</code></td>
+<td><b>🔷 ROBX.AI</b></td>
+<td>Python Developer</td>
+<td>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/●-COMPLETED-f5c518?style=flat-square&labelColor=0d1117&color=f5c518"/>
+</td>
+<td><code>DEC 2025 → FEB 2026</code></td>
+<td><b>🔶 ROBX.AI</b></td>
+<td>AI Intern</td>
+<td>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-9B59B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1ABC9C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-E74C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-3498DB?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/●-COMPLETED-4fa3ff?style=flat-square&labelColor=0d1117&color=4fa3ff"/>
+</td>
+<td><code>JUL → SEP 2025</code></td>
+<td><b>🔹 TRUST NEXUS</b></td>
+<td>AI Intern</td>
+<td>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF4500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/●-COMPLETED-888888?style=flat-square&labelColor=0d1117&color=888888"/>
+</td>
+<td><code>JUL → SEP 2024</code></td>
+<td><b>◽ KREASHION</b></td>
+<td>Laravel Intern</td>
+<td>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+
+</table>
+
+◈ ──────────────────────────────────────────────────── ◈
 
 </div>
+```
 
 <br>
 
