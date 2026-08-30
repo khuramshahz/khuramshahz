@@ -1,8 +1,6 @@
 <div align="center">
 
-## `// FACE ID :: DOT MATRIX SCAN`
-
-<pre style="line-height:1.0; font-size:5.5px; letter-spacing:0px; color:#00ff41; background:#000a00; display:inline-block; padding:16px 20px; border:1px solid #00ff41; border-radius:0;">
+<pre style="line-height:1.0; font-size:5.5px; letter-spacing:0px; color:#00ff41; background:#000a00; display:inline-block; padding:4px 20px 16px 20px; border:1px solid #00ff41; border-radius:0; margin-top:0;">
 ∙∙∙∙∙∙∙∙∙∙∙∙∙∙•••••∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙:::::::::::::::::::::.............:::∙••○●●●○○•∙∙∙:::::::::::::::
 •••••••••••••••••••••••∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙•••••••∙∙∙∙∙∙∙∙∙∙∙∙∙::::............:::::∙∙•○○○○••∙∙:::::::::::::::::::
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••○○○•••••••••∙∙::..........:::∙∙••••••••∙∙:::.......:::::::::::::
