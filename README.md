@@ -1,19 +1,92 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a00,60:003300,100:0a0a0a&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=AI%20ENGINEER%20%E2%80%A2%20PYTHON%20DEVELOPER%20%E2%80%A2%20ISLAMABAD%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=68&descColor=88ff88&stroke=00ff41&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a00,60:003300,100:0a0a0a&height=300&section=header&text=KHURAM%20SHAHZAD&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=AI%20AUTOMATION%20ENGINEER%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20ISLAMABAD%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=68&descColor=88ff88&stroke=00ff41&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=60&lines=%E2%94%BC+NEURAL+NET+ACTIVE+%E2%94%BC+RAG+%E2%94%BC+LANGGRAPH+%E2%94%BC+FINE-TUNING+%E2%94%BC+AGENTIC+AI+%E2%94%BC+AWS+%E2%94%BC+AZURE+AI+%E2%94%BC;%E2%94%BC+FASTAPI+%E2%94%BC+DJANGO+%E2%94%BC+NODEJS+%E2%94%BC+DOCKER+%E2%94%BC+K8S+%E2%94%BC+GRAFANA+%E2%94%BC+VECTORDB+%E2%94%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=60&lines=%E2%94%BC+NEURAL+NET+ACTIVE+%E2%94%BC+RAG+%E2%94%BC+LANGGRAPH+%E2%94%BC+FINE-TUNING+%E2%94%BC+AGENTIC+AI+%E2%94%BC+AWS+%E2%94%BC+AZURE+AI+%E2%94%BC;%E2%94%BC+N8N+%E2%94%BC+ZAPIER+%E2%94%BC+MAKE.COM+%E2%94%BC+GOHIGHLEVEL+%E2%94%BC+VOICE+AI+AGENTS+%E2%94%BC+FUNNEL+AUTOMATION+%E2%94%BC;%E2%94%BC+FASTAPI+%E2%94%BC+DJANGO+%E2%94%BC+NODEJS+%E2%94%BC+DOCKER+%E2%94%BC+K8S+%E2%94%BC+GRAFANA+%E2%94%BC+VECTORDB+%E2%94%BC)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
+---
+
+## `// FACE ID :: DOT MATRIX`
+
 <div align="center">
 
-<!-- MASSIVE SVG IDENTITY CARD -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=0D110D&center=true&vCenter=true&multiline=true&repeat=false&width=860&height=220&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++IDENTITY+CARD+%3A%3A+KHURAM+SHAHZAD+%3A%3A+AI+ENGINEER++++++++++++++++++++++++++%E2%95%91;%E2%95%9F%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%A2;%E2%95%91++ROLE+.......+AI+Engineer+%2B+Python+Developer+%2B+GenAI+Specialist+++++++++++%E2%95%91;%E2%95%91++LOCATION+...+COMSATS+University+Islamabad+%F0%9F%87%B5%F0%9F%87%B0+%7C+GPA+3.36%2F4.0+++++++++++++%E2%95%91;%E2%95%91++EMPLOYER+...+ROBX.AI+%E2%80%94+Python+Developer+%5BMAR+2026+%E2%86%92+NOW%5D++++++++++++++++++%E2%95%91;%E2%95%91++STATUS+.....+%F0%9F%9F%A2+ACTIVELY+BUILDING+%7C+OPEN+TO+COLLABORATE+%E2%9C%85++++++++++++++%E2%95%91;%E2%95%91++FOCUS+......+Agentic+AI+%7C+RAG+Systems+%7C+LLM+Fine-Tuning++++++++++++++++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" />
+<pre style="line-height:1.05; font-size:6px; color:#00ff41; background:#0d1117; display:inline-block; padding:14px; border:1px solid #1a2e1a;">
+●●●●●●●●●●●•••∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙::::::::::::::::::::::::::∙•●@@@@●∙∙
+●●●●●●●●●●●●●●●•••∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙::::::::::::::::::::::::::∙●@@@@●•∙:::
+●●●●●●●●●●●●●●●●●●●●•∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙::::::::::::::::::::::::∙•@@@@●•∙::::::
+●●●●●●●●●●●●●●●●●●●●●••∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙::::::::::::::::::::::::∙●@@@●•∙:::::::::
+●●●●●●●●●●●●●••●●••●●●•●•••∙∙∙:∙∙∙∙∙∙∙∙∙∙∙::::::::::::::::::::::•●@@@●•∙::::::::::::
+●●●●●●●●●●●●•••••••••••●●●●●••∙∙:::::∙∙∙∙::::::::::::::::::::∙●@@@●•∙:::::::::::::::
+●●●∙.:•●●●●●●●●•••••••••••••••••••∙∙::::::::::::::::::::::∙●@@@●•∙::::::::::::::::::
+●●●•∙••●●●●●●●●●●●●●•••●●•••••••••••••∙∙:::::::::::::.:∙•@@@•∙:::::::::::::::::::::.
+@●●@@@●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●••••∙::::::∙∙•●●•::..::::::::::...........:
+●●●●●●●●●●●●●●●●●●●●●@@@@@@@@@@@@@@@@@@@@@@●@∙::::::∙•∙:......:::::::..........:::::
+•••∙∙∙∙::::::::•●@@@@@@@@@@@@@@@@●●●●●●●●@●●@∙::::::.........................:::....
+.....:....::::∙•@@@@@@@●●@@●●●●●●●●●●●●●●●●●●∙:::::......::::::∙∙∙∙∙∙:::............
+::::∙∙∙∙∙∙∙∙∙∙•●@@@@●●●●●●●●●●●●●●●●●●•••●●●●:.................∙•••••∙∙∙:..·.....···
+•••••••••••••••●●●●●●●●●●●●●••••••••••••●●●●●•∙::..............:••••∙∙∙:.·····.·    
+●●●●••••●●••••●●●••●●●●●●●••••••••●●@@@@@@@@@@@@@@•············.••••∙∙:.·    ·.·  ··
+●●●●●••●●●●●●●●●●•∙∙∙∙∙::∙•∙:...:●@@@@@@@@@@@@@@@@@• ·      ·· ·∙●••∙∙:.··   ·.·    
+●●●●●••●●●●●●●●●•:·······:∙.···.@@@@@@@@@@@@●●●●@@@@· ·   · ·· ·∙●••∙::··    ·.·    
+●●●●●••●●●●••••••:·······:∙:···●@@@@●••∙∙∙∙:::::∙●@@●···  · ·· ·•●●•∙:.··    ·.·    
+●●●●●••●●●●••••••:······.:∙:···●@@@@•∙∙::.:::::::•@@@: ·  · ·. ·•●●•∙:.··    ·.·    
+●●●●•••●●●•••••••:······.:∙.·· :@@@••••••∙:∙∙::::∙@@•··   · ·. ·•●●•∙:.··    ·.·    
+●●●●•••●●●•••••••.······.:∙.···.@@•●@@@@@@∙●@@@●•∙•@. ·   · ·. ·•●●•∙:.··    ·.·    
+●●●●•••●●••••••••.······.:∙:··.●●●•∙∙••••∙.∙•●●•∙:∙●. ·   · ·. ·•●●•∙:.··    ·.·    
+••●•:∙••●∙∙•••••∙:······.:∙:··.•●●•∙:::∙∙:.:::..::∙•. ·   · ·. ·∙●●•∙:.··  · ·.·    
+••●•::∙••::•••••∙:·····..:∙:.··:●@●••∙∙∙●@●•:::::∙•: ·    · ·. ·•●●•∙:.··  · ·.· ·  
+●●●•:∙•●●::•••••∙:.····..:•:.··.:●@●••●@@●●•••∙∙∙•∙···    · ·. ·•●●•∙:.··    ·.· ·  
+••●•:∙••●::•••••∙:·····..:•:.··.·:@●●••••••∙∙•∙∙∙•· ·     · ·.··•●●•∙:.··    ·.· ·  
+••●•:∙∙•●∙:••••••:.......:•:.··..·•@@@•∙∙•∙:::∙••.···     · ·.··•●●•∙:.··    ·.· ·  
+••●•:∙∙••::••••••∙:::::::∙•∙:.....∙●@@@@@●●●@@@•∙:· ·  ········.•●●•∙:.··    ·.·    
+••●•:∙∙••∙:••••••∙::::::∙∙•∙∙∙:∙∙.:●●@@@@@@@@●∙:∙:··        ···.•●●•∙:.··   ·..·    
+••●•:∙∙••∙:••••••:..::::∙••∙∙:::...∙●●●●●●●●•∙:∙•·······....::.:●●●•∙:.··   ·..···  
+••@•:∙∙•●∙:•••••∙∙∙∙•∙:::::........·:••••••∙∙∙∙•.  ·····.:∙∙••∙•●●●•∙:.·· ···...····
+•●@●:∙••●∙:•••••••●•∙:.............::.:∙∙∙∙∙∙∙•:::.··········..:●@●•∙:..··· ·..···· 
+•●@●:∙•●●∙∙●●@@@@•:.····.........:∙∙∙::.∙∙∙∙∙:.:::::..···········:••∙::.·····..·   ·
+•●@●∙••●●∙∙@@@@•.···...··..··......:::::.:∙∙∙........········.·····:•••••••••●●●•••●
+●@@●∙••●●∙∙@@●:.··......·..···.........::..:.....············....···.●@@@@@@@@@@@@@@
+●@@●∙•●@@∙•@∙....·......··.·······.........··.........·······....··.·:@@@@@@@@@@@@@@
+●@@@∙•●@@•∙:..:...·......·.········..·....·····.··············..··...·∙@@@@@@@@@@@@@
+●●@●∙•●@@∙..:.:..:.·......··········.··...··.:···················.....·•@@@@@@@@@@@@
+●●@●∙•●@@:.::::...:..:.....··.···...····..···..·······..··....·.........@@@@@@@@@@@@
+●●@●∙•●@•..:.:::.:..::..............·····.····...·········...:.........·∙@@@@@@@@@@@
+@●@●∙•●@:..:.:::.:::::........·.··..···.······..·..··········.:........·.●@@@@@@@@@@
+●●●●∙•●•.:.::.:::.::∙:.:......··.····.....····......··.······.:.........·:∙∙∙••●●●@@
+●●●●••●:.:.::.::::.:::::::...·····....·...··.··......·····....:..:........∙:::::∙∙∙•
+@@@@@@●.::..::.:::::∙::::.:...............·····.......··..···::.:::.......::::::::::
+@@@@@@•.:::..::.:::∙•:::::................·········....·.....:::::.......·::::::::::
+●@@@@@∙..:∙:.::::::∙•:::..............·...··..··........··.·.::::::::......:::::::::
+●@@@●@∙:..:::..::::∙•::::................:.....··........···.::::::::........:::....
+●●●●●●∙:::::::::.::••::::::..........··....··..·........····.:::::::.......·.....···
+●●●●●@∙:::::::::::•●∙:::::::...............···..··.::....::..::::::::::::..··..·····
+●●●●●•:∙∙::::::∙::∙●∙::::::::..............·.....···.::...:::..:∙:::::::::..·..·····
+●●●@●∙::::::::::∙•●●∙.::::::::::...........··.......··.:..·.::.:::::::::.::.·..·····
+@@@@@●∙∙::::::::∙●●•∙.:::::::::::....:.....···...........:....:.∙∙:::::::::....·····
+@@@@@•∙∙∙::::::::∙∙∙∙:::::::::::::..................·..::......:∙∙:::::::::::.······
+@@@@@•∙∙∙∙∙:::::∙∙∙∙∙:::∙∙∙∙∙::::::.:.......··..:::::..···....:::::::::::::::· ·····
+@@@@@●∙∙∙∙∙:::::∙∙∙∙∙::::::::::::....::::::..............::::.:::∙:::::::::::..·····
+@@@●●•∙∙∙∙∙∙::::∙∙∙∙∙∙:::::::∙∙:::::::::::::..........::::::::::∙∙∙∙::∙∙:::∙:...····
+</pre>
+
+<sub>◈ rendered from 8-bit greyscale → dot-density ASCII · 84×55 grid ◈</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<!-- IDENTITY CARD -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=9999&pause=9999&color=00FF41&background=0D110D&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=240&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91%20%20IDENTITY%20CARD%20%3A%3A%20KHURAM%20SHAHZAD%20%3A%3A%20AI%20ENGINEER%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%95%91;%E2%95%9F%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%95%A2;%E2%95%91%20%20ROLE%20.......%20AI%20Automation%20Engineer%20%2B%20AI%20Engineer%20%2B%20Python%20Dev%20%20%20%20%20%20%20%20%20%20%E2%95%91;%E2%95%91%20%20LOCATION%20...%20Islamabad%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0%20%7C%20COMSATS%20Univ.%20%7C%20GPA%203.36%2F4.0%20%20%20%20%20%20%E2%95%91;%E2%95%91%20%20CURRENT%20....%20DRIVENSTACK%20%E2%80%94%20AI%20Automation%20Engineer%20%5BMAY%202026%20%E2%86%92%20NOW%5D%20%20%20%20%20%20%E2%95%91;%E2%95%91%20%20PREVIOUS%20...%20ROBX.AI%20%E2%80%94%20Python%20Developer%20%5BMAR%202026%20%E2%86%92%20MAY%202026%5D%20%20%20%20%20%20%20%20%20%20%20%E2%95%91;%E2%95%91%20%20STATUS%20.....%20%F0%9F%9F%A2%20ACTIVELY%20BUILDING%20%7C%20OPEN%20TO%20COLLABORATE%20%E2%9C%85%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%95%91;%E2%95%91%20%20FOCUS%20......%20n8n%20%7C%20Zapier%20%7C%20Make.com%20%7C%20GoHighLevel%20%7C%20Voice%20AI%20Agents%20%20%20%20%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" />
 
 </div>
 
@@ -41,7 +114,24 @@
 <td align="center">
   <img src="https://img.shields.io/badge/●-ACTIVE-00ff88?style=flat-square&labelColor=0d1117&color=00ff88"/>
 </td>
-<td><code>MAR 2026 → NOW</code></td>
+<td><code>MAY 2026 → NOW</code></td>
+<td><b>DRIVENSTACK</b></td>
+<td>AI Automation Engineer</td>
+<td>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-1E90FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Voice_AI_Agents-00c896?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Funnel_Automation-f5a623?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/●-COMPLETED-f5c518?style=flat-square&labelColor=0d1117&color=f5c518"/>
+</td>
+<td><code>MAR 2026 → MAY 2026</code></td>
 <td><b>ROBX.AI</b></td>
 <td>Python Developer</td>
 <td>
@@ -56,7 +146,7 @@
 
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/●-COMPLETED-f5c518?style=flat-square&labelColor=0d1117&color=f5c518"/>
+  <img src="https://img.shields.io/badge/●-COMPLETED-9B59B6?style=flat-square&labelColor=0d1117&color=9B59B6"/>
 </td>
 <td><code>DEC 2025 → FEB 2026</code></td>
 <td><b>ROBX.AI</b></td>
@@ -159,6 +249,16 @@
 
 <div align="center">
 
+**[ AUTOMATION & NO-CODE ]**
+
+![n8n](https://img.shields.io/badge/─_n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Zapier](https://img.shields.io/badge/─_Zapier-0d1117?style=flat-square&logo=zapier&logoColor=FF4A00)
+![Make](https://img.shields.io/badge/─_Make.com-0d1117?style=flat-square&logo=make&logoColor=6D00CC)
+![GoHighLevel](https://img.shields.io/badge/─_GoHighLevel-0d1117?style=flat-square&logoColor=1E90FF)
+![VoiceAI](https://img.shields.io/badge/─_AI_Calling_Agents-0d1117?style=flat-square&logoColor=00c896)
+![Funnels](https://img.shields.io/badge/─_Funnel_Automation-0d1117?style=flat-square&logoColor=f5a623)
+![Webhooks](https://img.shields.io/badge/─_Webhooks_%2F_API_Integration-0d1117?style=flat-square&logoColor=00D9FF)
+
 **[ GENERATIVE AI ]**
 
 ![LangChain](https://img.shields.io/badge/─_LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00ff41)
@@ -198,7 +298,6 @@
 ![Kubernetes](https://img.shields.io/badge/─_Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![AWS](https://img.shields.io/badge/─_AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Grafana](https://img.shields.io/badge/─_Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46800)
-![N8N](https://img.shields.io/badge/─_N8N-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 </div>
 
@@ -235,17 +334,18 @@
 
 <br>
 
-**I build things that matter. If your project pushes the boundary of what AI can do — I want in.**
+**I build things that matter. If your project pushes the boundary of what AI and automation can do — I want in.**
 
 <br>
 
 | DOMAIN | WHAT I BRING |
 |:---|:---|
+| ⚡ **AI Automation & Funnels** | n8n · Zapier · Make.com · GoHighLevel · Funnel builds |
+| 📞 **Voice AI / Calling Agents** | Conversational AI agents · appointment & lead flows |
 | 🤖 **Agentic AI Systems** | LangGraph · State machines · Autonomous loops · Memory |
 | 📚 **RAG Applications** | Legal · Medical · Finance · Custom vector pipelines |
 | 🔧 **LLM Fine-Tuning** | LoRA / QLoRA · Domain adaptation · Evaluation |
 | ☁️ **AI Deployment** | AWS · Azure · Docker · Kubernetes · CI/CD |
-| 🔬 **Research** | Graph compilers · Multi-agent coordination · Benchmarking |
 
 <br>
 
